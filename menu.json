@@ -1,22 +1,22 @@
 [
   {
     "CropID": "A-1",
-    "Cropname": "牛排",
+    "CropName": "牛排",
     "Price": "$150"
   },
   {
     "CropID": "A-2",
-    "Cropname": "蛋包飯",
+    "CropName": "蛋包飯",
     "Price": "$75"
   },
   {
     "CropID": "B-1",
-    "Cropname": "義大利麵",
+    "CropName": "義大利麵",
     "Price": "$130"
   },
   {
     "CropID": "B-2",
-    "Cropname": "燉飯",
+    "CropName": "燉飯",
     "Price": "$100"
   }
 ]
